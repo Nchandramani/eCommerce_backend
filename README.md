@@ -3,6 +3,8 @@ ECommerce Backend Application
 A production-ready eCommerce backend system developed using Spring Boot and Spring Security.
 This project exposes secure RESTful APIs for user authentication, product management, cart handling, and order processing using a clean layered architecture.
 
+Overview diagram of the project -->  https://github.com/Nchandramani/eCommerce_backend/blob/main/diagram.png
+
 📌 Overview
 This backend application is designed to serve as the core server-side system for an eCommerce platform. It follows best practices such as separation of concerns, DTO-based API contracts, role-based authorization, and exception handling.
 
